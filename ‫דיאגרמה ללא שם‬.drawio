@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-29T12:47:23.122Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="CJfGbZFxYf1_I8A2nRj2" version="22.1.4" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2023-11-29T12:49:16.542Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="eeZXygSHsLRRTP3z70g4" version="22.1.4" type="github" pages="7">
   <diagram name="‫עמוד-1‬" id="NG_VyX0Xb2WAm8HuSu6J">
     <mxGraphModel dx="1050" dy="566" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -605,8 +605,26 @@
             <mxPoint x="340" y="510" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="aAKhH1brvZZWf-eVHowg-1" value="מדפיס את כל המספרים במערך?" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="30" y="10" width="120" height="80" as="geometry" />
+        <mxCell id="aAKhH1brvZZWf-eVHowg-1" value="מדפיס את כל המספרים &lt;br&gt;במערך? בהתחלה מדפיס את 2?" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="10" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="veDkkUgVx8X4yKll-7qQ-1" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="380" y="480" as="sourcePoint" />
+            <mxPoint x="280" y="480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="veDkkUgVx8X4yKll-7qQ-2" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="280" y="480" as="sourcePoint" />
+            <mxPoint x="280" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="veDkkUgVx8X4yKll-7qQ-3" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.029;entryY=0.711;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="FMg73AtwGQsBLKtH_CnU-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="280" y="360" as="sourcePoint" />
+            <mxPoint x="330" y="310" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
