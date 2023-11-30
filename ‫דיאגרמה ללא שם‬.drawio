@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-30T14:51:07.104Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="NKEYagrNwBpdwFfBKC0T" version="22.1.5" type="github" pages="13">
+<mxfile host="app.diagrams.net" modified="2023-11-30T14:51:53.541Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="JwNEgsUJJr5yUioiPz6W" version="22.1.5" type="github" pages="13">
   <diagram name="‫עמוד-1‬" id="NG_VyX0Xb2WAm8HuSu6J">
     <mxGraphModel dx="1050" dy="566" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -921,17 +921,17 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="bkgmQlWILFIoyVl6smci-1" value="קלטו מהמשתמש שני מספרים: .x, y&lt;p&gt;&lt;/p&gt;&lt;span class=&quot;fontstyle2&quot;&gt;הציגו את תוצאת החישוב המתמטי ) X&lt;/span&gt;&lt;span style=&quot;font-size:8pt;&quot; class=&quot;fontstyle2&quot;&gt;y&lt;/span&gt;&lt;span class=&quot;fontstyle2&quot;&gt;איקס בחזקת וואי) ללא שימוש בסימן החזקה&lt;/span&gt; &lt;br/&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="bkgmQlWILFIoyVl6smci-1" value="קלטו מהמשתמש שני מספרים: .x, y&lt;p&gt;&lt;/p&gt;&lt;span class=&quot;fontstyle2&quot;&gt;הציגו את תוצאת החישוב המתמטי ) X&lt;/span&gt;&lt;span style=&quot;font-size:8pt;&quot; class=&quot;fontstyle2&quot;&gt;y&lt;/span&gt;&lt;span class=&quot;fontstyle2&quot;&gt;איקס בחזקת וואי) ללא שימוש בסימן החזקה&lt;/span&gt; &lt;br/&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="20" y="10" width="210" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="bkgmQlWILFIoyVl6smci-2" value="enter 2 numbers" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="380" width="120" height="60" as="geometry" />
+        <mxCell id="bkgmQlWILFIoyVl6smci-2" value="enter 2 numbers" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="380" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="bkgmQlWILFIoyVl6smci-3" value="stop" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="370" y="525" width="120" height="60" as="geometry" />
+        <mxCell id="bkgmQlWILFIoyVl6smci-3" value="stop" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="400" y="560" width="50" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="bkgmQlWILFIoyVl6smci-4" value="x, y" style="shape=card;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="380" y="90" width="90" height="50" as="geometry" />
+        <mxCell id="bkgmQlWILFIoyVl6smci-4" value="x, y" style="shape=card;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="390" y="90" width="70" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
