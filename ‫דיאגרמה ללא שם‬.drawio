@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-30T16:18:41.922Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="5wamULq8Wp6kkECuK5yj" version="22.1.5" type="github" pages="15">
+<mxfile host="app.diagrams.net" modified="2023-11-30T16:21:56.869Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="gY1uBQ18Y5YtLtjYYeiX" version="22.1.5" type="github" pages="15">
   <diagram name="‫עמוד-1‬" id="NG_VyX0Xb2WAm8HuSu6J">
     <mxGraphModel dx="1050" dy="566" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1056,7 +1056,7 @@
         <mxCell id="xx926gK97IkGs0ZfgqYR-5" value="i&amp;lt;10" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="490" y="210" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="xx926gK97IkGs0ZfgqYR-6" value="i=5" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="xx926gK97IkGs0ZfgqYR-6" value="i==5" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="405" y="440" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="xx926gK97IkGs0ZfgqYR-7" value="break" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
