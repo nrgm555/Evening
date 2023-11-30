@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-30T16:05:02.775Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="bGkyJTJ_4_bdWQNX7pm8" version="22.1.5" type="github" pages="14">
+<mxfile host="app.diagrams.net" modified="2023-11-30T16:08:05.415Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="ZYTux-1d6jA6ubRHd6Nf" version="22.1.5" type="github" pages="14">
   <diagram name="‫עמוד-1‬" id="NG_VyX0Xb2WAm8HuSu6J">
     <mxGraphModel dx="1050" dy="566" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -965,7 +965,7 @@
           <mxGeometry x="10" y="10" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="wR-XUjNbIPiQWdmjQ_Qu-3" value="stop" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="120" y="690" width="70" height="40" as="geometry" />
+          <mxGeometry x="700" y="510" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="wR-XUjNbIPiQWdmjQ_Qu-4" value="num" style="shape=card;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="379" y="280" width="60" height="40" as="geometry" />
@@ -1026,6 +1026,9 @@
         </mxCell>
         <mxCell id="wR-XUjNbIPiQWdmjQ_Qu-21" value="not a polygon" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
           <mxGeometry x="530" y="680" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wR-XUjNbIPiQWdmjQ_Qu-22" value="a polygon" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="510" width="90" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
